@@ -76,31 +76,7 @@ Discord :- BLUEKG
 |   ![shock](https://cdn.discordapp.com/attachments/1009755282265604198/1036922315654574100/IMG_20221101_135640.jpg)   |  Shockwave |
 |   ![cursebomb](https://media.discordapp.net/attachments/1009755282265604198/1040233068474159155/Screenshot_2022-11-10-17-24-19-400-edit_net.froemling.bombsquad.jpg)   |  CurseBomb | 
 
-# Changelog 1.5
-- Removed auto night mode 
-
-- Rip some bugs
-
-- New roles
-1. Egg support
-2. manager
-3. Cursed ( this is worse than ban)
-
-- more commands added
-
-- made already made commands easy to use
-
-*This is last time iam updating this script*
-
 # Thanks
 
 **Special Thanks To all Of them**
-- Thanks to Blitz 
-- Thanks To Pcmodder 
-- Thanks To MrSmoothy
-- Thanks to Bombdash creators 
-- Thanks To awesomeLogic
-
-nks To MythB
-- Thanks To egg 🥚
-- ok
+- Thanks to Ankit
