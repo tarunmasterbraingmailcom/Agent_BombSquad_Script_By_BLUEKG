@@ -13,7 +13,7 @@ Just Download and Add this Files to Your server
 
 - `sudo apt-get update`
 - `sudo apt-get install python libsdl2-2.0-0 libpython2.7`
-- `cd Desire Server`
+- `cd Agent_Script_By_BLUEKG`
 - `chmod 777 bs_headless`
 - `chmod 777 bombsquad_server`
 - `chmod 777 config.py`
@@ -31,7 +31,7 @@ Just Download and Add this Files to Your server
 
 **OR**
 
-Discord :- Desire#2365
+Discord :- BLUEKG
 
 *Happy BombSquading*
 
@@ -100,7 +100,7 @@ Discord :- Desire#2365
 - Thanks To MrSmoothy
 - Thanks to Bombdash creators 
 - Thanks To awesomeLogic
-- Thanks To SobyDamn
-- Thanks To MythB
+
+nks To MythB
 - Thanks To egg 🥚
 - ok
