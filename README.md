@@ -31,7 +31,7 @@ Just Download and Add this Files to Your server
 
 **OR**
 
-Discord :- BLUEKG
+Discord :- !               ~𝕭ＬＵＥ 𝕶Ｇꤠ   †ᵛᶻ#0007
 
 *Happy BombSquading*
 
@@ -49,34 +49,17 @@ Discord :- BLUEKG
 
 - [x] Dark Theme
 
-- [x] Chat Filter
 
-- [x] Name filter 
 
-- [x] Powerups
 
-# Powerups
+# Extra Powerups
+- [x] SpazColour
+- [x] Speedy
+- [x] WithSuper Cool Coding
 
-| Image | Name |
-| ---------- | -------- |
-|   ![party](https://cdn.discordapp.com/attachments/1009755282265604198/1036922369639456778/IMG_20221101_140541.jpg)   |  Party   |
-|   ![sleep](https://cdn.discordapp.com/attachments/1009755282265604198/1036922369077424138/IMG_20221101_140057.jpg)   |  Sleep Bomb   |
-|   ![speed](https://cdn.discordapp.com/attachments/1009755282265604198/1036922370247630908/IMG_20221101_140726.jpg)   |  SpeedBoots   |
-|   ![elon](https://cdn.discordapp.com/attachments/1009755282265604198/1036922317340692540/IMG_20221101_135922.jpg)   |  Tracker   |
-|   ![jump](https://cdn.discordapp.com/attachments/1009755282265604198/1036922314559868968/IMG_20221101_135441.jpg)   |  HighJump   |
-|   ![force](https://cdn.discordapp.com/attachments/1009755282265604198/1036922370457350226/IMG_20221101_140746.jpg)   |  StickyForce   |
-|   ![banana](https://cdn.discordapp.com/attachments/1009755282265604198/1036922315201597520/IMG_20221101_135559.jpg)   |  Banana   |
-|   ![teleport](https://cdn.discordapp.com/attachments/1009755282265604198/1036922314870239232/IMG_20221101_135518.jpg)   |  EnderPearls   |
-|   ![airstrike](https://cdn.discordapp.com/attachments/1009755282265604198/1036922316040441917/IMG_20221101_135731.jpg)   |  Artillery   |
-|   ![toxic](https://cdn.discordapp.com/attachments/1009755282265604198/1036922317693005874/IMG_20221101_140018.jpg)   |  ToxicBomb   |
-|   ![weed](https://cdn.discordapp.com/attachments/1009755282265604198/1036922316904476712/IMG_20221101_135843.jpg)   |  Weedbomb   |
-|   ![bot](https://cdn.discordapp.com/attachments/1009755282265604198/1036922316334059541/IMG_20221101_135757.jpg)   |  Bunny   | 
-|   ![char](https://cdn.discordapp.com/attachments/1009755282265604198/1036922369844981790/IMG_20221101_140616.jpg)   |  Rchar   |
-|   ![inv](https://cdn.discordapp.com/attachments/1009755282265604198/1036922369366839316/IMG_20221101_140215.jpg)   |  invisible | 
-|   ![shock](https://cdn.discordapp.com/attachments/1009755282265604198/1036922315654574100/IMG_20221101_135640.jpg)   |  Shockwave |
-|   ![cursebomb](https://media.discordapp.net/attachments/1009755282265604198/1040233068474159155/Screenshot_2022-11-10-17-24-19-400-edit_net.froemling.bombsquad.jpg)   |  CurseBomb | 
+
 
 # Thanks
 
 **Special Thanks To all Of them**
-- Thanks to Ankit
+- Thanks to Ankit & Agent
